@@ -1,0 +1,1870 @@
+{
+  "03tnrovd.micpn.com": {
+    "hostname": "03tnrovd.micpn.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "9339607.fls.doubleclick.net": {
+    "hostname": "9339607.fls.doubleclick.net",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "9525473.fls.doubleclick.net": {
+    "hostname": "9525473.fls.doubleclick.net",
+    "firstPartyHostnames": [
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "9657275.fls.doubleclick.net": {
+    "hostname": "9657275.fls.doubleclick.net",
+    "firstPartyHostnames": [
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a15125200031.cdn.optimizely.com": {
+    "hostname": "a15125200031.cdn.optimizely.com",
+    "firstPartyHostnames": [
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a16735160111.cdn.optimizely.com": {
+    "hostname": "a16735160111.cdn.optimizely.com",
+    "firstPartyHostnames": [
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "act.berniesanders.com": {
+    "hostname": "act.berniesanders.com",
+    "firstPartyHostnames": [
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "act.betoorourke.com": {
+    "hostname": "act.betoorourke.com",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "actions.ngpvan.com": {
+    "hostname": "actions.ngpvan.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com",
+      "peteforamerica.com",
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.cloudflare.com": {
+    "hostname": "ajax.cloudflare.com",
+    "firstPartyHostnames": [
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "betoorourke.com",
+      "elizabethwarren.com",
+      "amyklobuchar.com",
+      "www.tomsteyer.com",
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "alb.reddit.com": {
+    "hostname": "alb.reddit.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "amplify.outbrain.com": {
+    "hostname": "amplify.outbrain.com",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "amplifypixel.outbrain.com": {
+    "hostname": "amplifypixel.outbrain.com",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "amyklobuchar.com": {
+    "hostname": "amyklobuchar.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "ajax.googleapis.com",
+      "cdn.userway.org",
+      "www.googleadservices.com",
+      "connect.facebook.net",
+      "platform.twitter.com",
+      "userway.org",
+      "stats.g.doubleclick.net",
+      "googleads.g.doubleclick.net",
+      "syndication.twitter.com",
+      "www.google.com",
+      "www.facebook.com"
+    ]
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "joebiden.com",
+      "elizabethwarren.com",
+      "betoorourke.com",
+      "berniesanders.com",
+      "www.tomsteyer.com",
+      "corybooker.com",
+      "peteforamerica.com",
+      "kamalaharris.org",
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.elizabethwarren.codes": {
+    "hostname": "api.elizabethwarren.codes",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.segment.io": {
+    "hostname": "api.segment.io",
+    "firstPartyHostnames": [
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ariane.abtasty.com": {
+    "hostname": "ariane.abtasty.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bam.nr-data.net": {
+    "hostname": "bam.nr-data.net",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "www.julianforthefuture.com",
+      "www.tulsi2020.com",
+      "www.yang2020.com",
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bcp.crwdcntrl.net": {
+    "hostname": "bcp.crwdcntrl.net",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "berniesanders.com": {
+    "hostname": "berniesanders.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "use.typekit.net",
+      "cms-assets.berniesanders.com",
+      "p.typekit.net",
+      "ajax.cloudflare.com",
+      "player.vimeo.com",
+      "i.vimeocdn.com",
+      "www.googletagmanager.com",
+      "ajax.googleapis.com",
+      "www.google.com",
+      "www.google-analytics.com",
+      "googleads.g.doubleclick.net",
+      "act.berniesanders.com",
+      "kit.fontawesome.com",
+      "kit-free.fontawesome.com",
+      "sc-static.net",
+      "js.adsrvr.org",
+      "9525473.fls.doubleclick.net",
+      "ycwht5le.micpn.com",
+      "connect.facebook.net",
+      "adservice.google.com",
+      "www.googleadservices.com",
+      "static.ads-twitter.com",
+      "insight.adsrvr.org",
+      "tr.snapchat.com",
+      "www.facebook.com",
+      "match.adsrvr.org",
+      "pixel.rubiconproject.com",
+      "ib.adnxs.com",
+      "t.co",
+      "analytics.twitter.com"
+    ]
+  },
+  "betoorourke.com": {
+    "hostname": "betoorourke.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.googletagmanager.com",
+      "use.typekit.net",
+      "ajax.googleapis.com",
+      "p.typekit.net",
+      "jbqey302p7-flywheel.netdna-ssl.com",
+      "js.adsrvr.org",
+      "secure.actblue.com",
+      "act.betoorourke.com",
+      "s.yimg.com",
+      "www.redditstatic.com",
+      "sc-static.net",
+      "sp.analytics.yahoo.com",
+      "www.google.com",
+      "tr.snapchat.com",
+      "bat.bing.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "snap.licdn.com",
+      "googleads.g.doubleclick.net",
+      "alb.reddit.com",
+      "static.ads-twitter.com",
+      "www.facebook.com",
+      "pixel.sitescout.com",
+      "pixel.tapad.com",
+      "p.adsymptotic.com",
+      "sync.teads.tv",
+      "dpm.demdex.net",
+      "insight.adsrvr.org",
+      "bcp.crwdcntrl.net",
+      "match.adsrvr.org",
+      "load77.exelator.com",
+      "dsum-sec.casalemedia.com",
+      "ups.analytics.yahoo.com",
+      "t.co",
+      "analytics.twitter.com",
+      "www.youtube.com",
+      "static.doubleclick.net",
+      "us-u.openx.net",
+      "tags.bluekai.com",
+      "beacon.krxd.net",
+      "simage2.pubmatic.com",
+      "fonts.gstatic.com",
+      "i.ytimg.com",
+      "yt3.ggpht.com",
+      "idsync.rlcdn.com"
+    ]
+  },
+  "bid.g.doubleclick.net": {
+    "hostname": "bid.g.doubleclick.net",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "firstPartyHostnames": [
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.heapanalytics.com": {
+    "hostname": "cdn.heapanalytics.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.optimizely.com": {
+    "hostname": "cdn.optimizely.com",
+    "firstPartyHostnames": [
+      "corybooker.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.segment.com": {
+    "hostname": "cdn.segment.com",
+    "firstPartyHostnames": [
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.syndication.twimg.com": {
+    "hostname": "cdn.syndication.twimg.com",
+    "firstPartyHostnames": [
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.userway.org": {
+    "hostname": "cdn.userway.org",
+    "firstPartyHostnames": [
+      "amyklobuchar.com",
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn3.optimizely.com": {
+    "hostname": "cdn3.optimizely.com",
+    "firstPartyHostnames": [
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "firstPartyHostnames": [
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cms-assets.berniesanders.com": {
+    "hostname": "cms-assets.berniesanders.com",
+    "firstPartyHostnames": [
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.jquery.com": {
+    "hostname": "code.jquery.com",
+    "firstPartyHostnames": [
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "amyklobuchar.com",
+      "kamalaharris.org",
+      "joebiden.com",
+      "corybooker.com",
+      "www.yang2020.com",
+      "elizabethwarren.com",
+      "peteforamerica.com",
+      "www.tomsteyer.com",
+      "betoorourke.com",
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "corybooker.com": {
+    "hostname": "corybooker.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "use.fontawesome.com",
+      "stats.wp.com",
+      "polyfill.io",
+      "cdn.optimizely.com",
+      "cdnjs.cloudflare.com",
+      "s0.wp.com",
+      "code.jquery.com",
+      "fonts.googleapis.com",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "s.yimg.com",
+      "static.ads-twitter.com",
+      "fonts.gstatic.com",
+      "cdn3.optimizely.com",
+      "logx.optimizely.com",
+      "a15125200031.cdn.optimizely.com",
+      "pixel-static.spotify.com",
+      "pixel.spotify.com",
+      "www.facebook.com",
+      "sp.analytics.yahoo.com",
+      "www.google.com",
+      "t.co",
+      "analytics.twitter.com"
+    ]
+  },
+  "cw.addthis.com": {
+    "hostname": "cw.addthis.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cx.atdmt.com": {
+    "hostname": "cx.atdmt.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d1aqhv4sn5kxtx.cloudfront.net": {
+    "hostname": "d1aqhv4sn5kxtx.cloudfront.net",
+    "firstPartyHostnames": [
+      "peteforamerica.com",
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d3rse9xjbp8270.cloudfront.net": {
+    "hostname": "d3rse9xjbp8270.cloudfront.net",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dcinfos-cache.abtasty.com": {
+    "hostname": "dcinfos-cache.abtasty.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dcinfos.abtasty.com": {
+    "hostname": "dcinfos.abtasty.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsum-sec.casalemedia.com": {
+    "hostname": "dsum-sec.casalemedia.com",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "elizabethwarren.com": {
+    "hostname": "elizabethwarren.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images.ctfassets.net",
+      "ajax.googleapis.com",
+      "www.googletagmanager.com",
+      "www.google.com",
+      "img.youtube.com",
+      "sc-static.net",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "amplify.outbrain.com",
+      "videos.ctfassets.net",
+      "03tnrovd.micpn.com",
+      "static.ads-twitter.com",
+      "googleads.g.doubleclick.net",
+      "cdn.heapanalytics.com",
+      "try.abtasty.com",
+      "s.bsd.net",
+      "9339607.fls.doubleclick.net",
+      "api.elizabethwarren.codes",
+      "r6cvxa6w3a.execute-api.us-east-1.amazonaws.com",
+      "tr.outbrain.com",
+      "tr.snapchat.com",
+      "tracker.marinsm.com",
+      "www.facebook.com",
+      "amplifypixel.outbrain.com",
+      "adservice.google.com",
+      "dcinfos.abtasty.com",
+      "dcinfos-cache.abtasty.com",
+      "heapanalytics.com",
+      "ariane.abtasty.com",
+      "t.co",
+      "analytics.twitter.com",
+      "www.googleadservices.com",
+      "cx.atdmt.com"
+    ]
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "firstPartyHostnames": [
+      "www.yang2020.com",
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "firstPartyHostnames": [
+      "corybooker.com",
+      "joebiden.com",
+      "www.julianforthefuture.com",
+      "kamalaharris.org",
+      "www.yang2020.com",
+      "betoorourke.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.typotheque.com": {
+    "hostname": "fonts.typotheque.com",
+    "firstPartyHostnames": [
+      "www.julianforthefuture.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "elizabethwarren.com",
+      "www.tulsi2020.com",
+      "berniesanders.com",
+      "www.tomsteyer.com",
+      "joebiden.com",
+      "amyklobuchar.com",
+      "peteforamerica.com",
+      "betoorourke.com",
+      "www.julianforthefuture.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "heapanalytics.com": {
+    "hostname": "heapanalytics.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.vimeocdn.com": {
+    "hostname": "i.vimeocdn.com",
+    "firstPartyHostnames": [
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ytimg.com": {
+    "hostname": "i.ytimg.com",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "www.tulsi2020.com",
+      "betoorourke.com",
+      "peteforamerica.com",
+      "www.julianforthefuture.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "firstPartyHostnames": [
+      "berniesanders.com",
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idsync.rlcdn.com": {
+    "hostname": "idsync.rlcdn.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.ctfassets.net": {
+    "hostname": "images.ctfassets.net",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.youtube.com": {
+    "hostname": "img.youtube.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "in.hotjar.com": {
+    "hostname": "in.hotjar.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "insight.adsrvr.org": {
+    "hostname": "insight.adsrvr.org",
+    "firstPartyHostnames": [
+      "berniesanders.com",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jbqey302p7-flywheel.netdna-ssl.com": {
+    "hostname": "jbqey302p7-flywheel.netdna-ssl.com",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "joebiden.com": {
+    "hostname": "joebiden.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.googletagmanager.com",
+      "use.typekit.net",
+      "ajax.googleapis.com",
+      "www.google-analytics.com",
+      "p.typekit.net",
+      "www.youtube.com",
+      "www.google.com",
+      "static.ads-twitter.com",
+      "amplify.outbrain.com",
+      "connect.facebook.net",
+      "www.googleadservices.com",
+      "fonts.gstatic.com",
+      "static.doubleclick.net",
+      "stats.g.doubleclick.net",
+      "i.ytimg.com",
+      "tr.outbrain.com",
+      "googleads.g.doubleclick.net",
+      "yt3.ggpht.com",
+      "t.co",
+      "amplifypixel.outbrain.com",
+      "www.facebook.com",
+      "js-agent.newrelic.com",
+      "analytics.twitter.com",
+      "bam.nr-data.net"
+    ]
+  },
+  "js-agent.newrelic.com": {
+    "hostname": "js-agent.newrelic.com",
+    "firstPartyHostnames": [
+      "www.julianforthefuture.com",
+      "joebiden.com",
+      "www.tulsi2020.com",
+      "www.tomsteyer.com",
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.adsrvr.org": {
+    "hostname": "js.adsrvr.org",
+    "firstPartyHostnames": [
+      "betoorourke.com",
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.verygoodvault.com": {
+    "hostname": "js.verygoodvault.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "kamalaharris.org": {
+    "hostname": "kamalaharris.org",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "use.typekit.net",
+      "www.googletagmanager.com",
+      "www.google.com",
+      "p.typekit.net",
+      "media.kamalaharris.org",
+      "www.google-analytics.com",
+      "www.gstatic.com",
+      "connect.facebook.net",
+      "sc-static.net",
+      "www.redditstatic.com",
+      "s.yimg.com",
+      "static.hotjar.com",
+      "static.ads-twitter.com",
+      "fonts.gstatic.com",
+      "s7.addthis.com",
+      "s.po.st",
+      "snap.licdn.com",
+      "googleads.g.doubleclick.net",
+      "stats.g.doubleclick.net",
+      "alb.reddit.com",
+      "tr.snapchat.com",
+      "sp.analytics.yahoo.com",
+      "script.hotjar.com",
+      "www.facebook.com",
+      "vars.hotjar.com",
+      "pixel.mediaiqdigital.com",
+      "vc.hotjar.io",
+      "in.hotjar.com",
+      "p.adsymptotic.com",
+      "v1.addthisedge.com",
+      "m.addthis.com",
+      "po.st",
+      "rp.gwallet.com",
+      "ib.adnxs.com",
+      "us-u.openx.net",
+      "pixel.rubiconproject.com",
+      "sync.1rx.io",
+      "rs.gwallet.com",
+      "tags.bluekai.com",
+      "cw.addthis.com",
+      "idsync.rlcdn.com",
+      "p.po.st",
+      "sb.scorecardresearch.com",
+      "analytics.twitter.com",
+      "t.co"
+    ]
+  },
+  "kit-free.fontawesome.com": {
+    "hostname": "kit-free.fontawesome.com",
+    "firstPartyHostnames": [
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "kit.fontawesome.com": {
+    "hostname": "kit.fontawesome.com",
+    "firstPartyHostnames": [
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "live-development2.pantheonsite.io": {
+    "hostname": "live-development2.pantheonsite.io",
+    "firstPartyHostnames": [
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "load77.exelator.com": {
+    "hostname": "load77.exelator.com",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "logx.optimizely.com": {
+    "hostname": "logx.optimizely.com",
+    "firstPartyHostnames": [
+      "corybooker.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthis.com": {
+    "hostname": "m.addthis.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.adsrvr.org": {
+    "hostname": "match.adsrvr.org",
+    "firstPartyHostnames": [
+      "peteforamerica.com",
+      "berniesanders.com",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media.kamalaharris.org": {
+    "hostname": "media.kamalaharris.org",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.adsymptotic.com": {
+    "hostname": "p.adsymptotic.com",
+    "firstPartyHostnames": [
+      "www.yang2020.com",
+      "kamalaharris.org",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.po.st": {
+    "hostname": "p.po.st",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.typekit.net": {
+    "hostname": "p.typekit.net",
+    "firstPartyHostnames": [
+      "berniesanders.com",
+      "kamalaharris.org",
+      "betoorourke.com",
+      "peteforamerica.com",
+      "joebiden.com",
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.twimg.com": {
+    "hostname": "pbs.twimg.com",
+    "firstPartyHostnames": [
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pd.trysera.com": {
+    "hostname": "pd.trysera.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "peteforamerica.com": {
+    "hostname": "peteforamerica.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "use.typekit.net",
+      "p.typekit.net",
+      "cdn.optimizely.com",
+      "www.googletagmanager.com",
+      "rum-static.pingdom.net",
+      "d1aqhv4sn5kxtx.cloudfront.net",
+      "storage.googleapis.com",
+      "profile.ngpvan.com",
+      "js.verygoodvault.com",
+      "actions.ngpvan.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "www.googleadservices.com",
+      "9657275.fls.doubleclick.net",
+      "a16735160111.cdn.optimizely.com",
+      "static.ads-twitter.com",
+      "logx.optimizely.com",
+      "stats.g.doubleclick.net",
+      "www.facebook.com",
+      "googleads.g.doubleclick.net",
+      "www.google.com",
+      "adservice.google.com",
+      "match.adsrvr.org",
+      "rum-collector-2.pingdom.net",
+      "analytics.twitter.com",
+      "t.co",
+      "www.youtube.com",
+      "static.doubleclick.net",
+      "fonts.gstatic.com",
+      "yt3.ggpht.com",
+      "i.ytimg.com",
+      "rum.optimizely.com",
+      "secure.everyaction.com",
+      "secure.ngpvan.com",
+      "ups.analytics.yahoo.com"
+    ]
+  },
+  "pixel-geo.prfct.co": {
+    "hostname": "pixel-geo.prfct.co",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel-static.spotify.com": {
+    "hostname": "pixel-static.spotify.com",
+    "firstPartyHostnames": [
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.mediaiqdigital.com": {
+    "hostname": "pixel.mediaiqdigital.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.prfct.co": {
+    "hostname": "pixel.prfct.co",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "berniesanders.com",
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.sitescout.com": {
+    "hostname": "pixel.sitescout.com",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.spotify.com": {
+    "hostname": "pixel.spotify.com",
+    "firstPartyHostnames": [
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.tapad.com": {
+    "hostname": "pixel.tapad.com",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "firstPartyHostnames": [
+      "amyklobuchar.com",
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "player.vimeo.com": {
+    "hostname": "player.vimeo.com",
+    "firstPartyHostnames": [
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "po.st": {
+    "hostname": "po.st",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "polyfill.io": {
+    "hostname": "polyfill.io",
+    "firstPartyHostnames": [
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "profile.ngpvan.com": {
+    "hostname": "profile.ngpvan.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "q.quora.com": {
+    "hostname": "q.quora.com",
+    "firstPartyHostnames": [
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r4---sn-ab5l6ndr.googlevideo.com": {
+    "hostname": "r4---sn-ab5l6ndr.googlevideo.com",
+    "firstPartyHostnames": [
+      "www.julianforthefuture.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r4---sn-ab5szn7y.googlevideo.com": {
+    "hostname": "r4---sn-ab5szn7y.googlevideo.com",
+    "firstPartyHostnames": [
+      "www.julianforthefuture.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r6cvxa6w3a.execute-api.us-east-1.amazonaws.com": {
+    "hostname": "r6cvxa6w3a.execute-api.us-east-1.amazonaws.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "res.cloudinary.com": {
+    "hostname": "res.cloudinary.com",
+    "firstPartyHostnames": [
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rp.gwallet.com": {
+    "hostname": "rp.gwallet.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rs.gwallet.com": {
+    "hostname": "rs.gwallet.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rules.quantcount.com": {
+    "hostname": "rules.quantcount.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rum-collector-2.pingdom.net": {
+    "hostname": "rum-collector-2.pingdom.net",
+    "firstPartyHostnames": [
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rum-static.pingdom.net": {
+    "hostname": "rum-static.pingdom.net",
+    "firstPartyHostnames": [
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rum.optimizely.com": {
+    "hostname": "rum.optimizely.com",
+    "firstPartyHostnames": [
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.bsd.net": {
+    "hostname": "s.bsd.net",
+    "firstPartyHostnames": [
+      "www.julianforthefuture.com",
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.po.st": {
+    "hostname": "s.po.st",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.yimg.com": {
+    "hostname": "s.yimg.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "corybooker.com",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "firstPartyHostnames": [
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.wp.com": {
+    "hostname": "s0.wp.com",
+    "firstPartyHostnames": [
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s7.addthis.com": {
+    "hostname": "s7.addthis.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sc-static.net": {
+    "hostname": "sc-static.net",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "elizabethwarren.com",
+      "betoorourke.com",
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "firstPartyHostnames": [
+      "www.yang2020.com",
+      "www.tulsi2020.com",
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.actblue.com": {
+    "hostname": "secure.actblue.com",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.everyaction.com": {
+    "hostname": "secure.everyaction.com",
+    "firstPartyHostnames": [
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.ngpvan.com": {
+    "hostname": "secure.ngpvan.com",
+    "firstPartyHostnames": [
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.quantserve.com": {
+    "hostname": "secure.quantserve.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage2.pubmatic.com": {
+    "hostname": "simage2.pubmatic.com",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sjs.bizographics.com": {
+    "hostname": "sjs.bizographics.com",
+    "firstPartyHostnames": [
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "snap.licdn.com": {
+    "hostname": "snap.licdn.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp.analytics.yahoo.com": {
+    "hostname": "sp.analytics.yahoo.com",
+    "firstPartyHostnames": [
+      "betoorourke.com",
+      "kamalaharris.org",
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "joebiden.com",
+      "corybooker.com",
+      "www.yang2020.com",
+      "kamalaharris.org",
+      "elizabethwarren.com",
+      "peteforamerica.com",
+      "www.tomsteyer.com",
+      "betoorourke.com",
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.doubleclick.net": {
+    "hostname": "static.doubleclick.net",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "www.julianforthefuture.com",
+      "www.tulsi2020.com",
+      "www.tomsteyer.com",
+      "betoorourke.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "kamalaharris.org",
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.landbot.io": {
+    "hostname": "static.landbot.io",
+    "firstPartyHostnames": [
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "kamalaharris.org",
+      "joebiden.com",
+      "amyklobuchar.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.wp.com": {
+    "hostname": "stats.wp.com",
+    "firstPartyHostnames": [
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "storage.googleapis.com": {
+    "hostname": "storage.googleapis.com",
+    "firstPartyHostnames": [
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.1rx.io": {
+    "hostname": "sync.1rx.io",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.teads.tv": {
+    "hostname": "sync.teads.tv",
+    "firstPartyHostnames": [
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "firstPartyHostnames": [
+      "amyklobuchar.com",
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "elizabethwarren.com",
+      "betoorourke.com",
+      "berniesanders.com",
+      "www.tomsteyer.com",
+      "corybooker.com",
+      "peteforamerica.com",
+      "www.tulsi2020.com",
+      "kamalaharris.org",
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.marinsm.com": {
+    "hostname": "tag.marinsm.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.bluekai.com": {
+    "hostname": "tags.bluekai.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.w55c.net": {
+    "hostname": "tags.w55c.net",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tr.outbrain.com": {
+    "hostname": "tr.outbrain.com",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tr.snapchat.com": {
+    "hostname": "tr.snapchat.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "elizabethwarren.com",
+      "betoorourke.com",
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tracker.marinsm.com": {
+    "hostname": "tracker.marinsm.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "try.abtasty.com": {
+    "hostname": "try.abtasty.com",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ups.analytics.yahoo.com": {
+    "hostname": "ups.analytics.yahoo.com",
+    "firstPartyHostnames": [
+      "betoorourke.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us-central1-tsdc-prod.cloudfunctions.net": {
+    "hostname": "us-central1-tsdc-prod.cloudfunctions.net",
+    "firstPartyHostnames": [
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us-u.openx.net": {
+    "hostname": "us-u.openx.net",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "kamalaharris.org",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "use.fontawesome.com": {
+    "hostname": "use.fontawesome.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "corybooker.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "use.typekit.net": {
+    "hostname": "use.typekit.net",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "kamalaharris.org",
+      "berniesanders.com",
+      "betoorourke.com",
+      "peteforamerica.com",
+      "www.tomsteyer.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "userway.org": {
+    "hostname": "userway.org",
+    "firstPartyHostnames": [
+      "www.yang2020.com",
+      "amyklobuchar.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "v1.addthisedge.com": {
+    "hostname": "v1.addthisedge.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "www.yang2020.com",
+      "www.tulsi2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vc.hotjar.io": {
+    "hostname": "vc.hotjar.io",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "www.yang2020.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "videos.ctfassets.net": {
+    "hostname": "videos.ctfassets.net",
+    "firstPartyHostnames": [
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "firstPartyHostnames": [
+      "www.yang2020.com",
+      "corybooker.com",
+      "peteforamerica.com",
+      "www.tulsi2020.com",
+      "elizabethwarren.com",
+      "amyklobuchar.com",
+      "kamalaharris.org",
+      "joebiden.com",
+      "www.tomsteyer.com",
+      "betoorourke.com",
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "firstPartyHostnames": [
+      "www.julianforthefuture.com",
+      "www.tulsi2020.com",
+      "amyklobuchar.com",
+      "joebiden.com",
+      "kamalaharris.org",
+      "corybooker.com",
+      "www.yang2020.com",
+      "elizabethwarren.com",
+      "berniesanders.com",
+      "peteforamerica.com",
+      "www.tomsteyer.com",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "elizabethwarren.com",
+      "joebiden.com",
+      "www.tomsteyer.com",
+      "www.julianforthefuture.com",
+      "www.tulsi2020.com",
+      "berniesanders.com",
+      "www.yang2020.com",
+      "betoorourke.com",
+      "corybooker.com",
+      "amyklobuchar.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "firstPartyHostnames": [
+      "www.tulsi2020.com",
+      "amyklobuchar.com",
+      "joebiden.com",
+      "peteforamerica.com",
+      "www.tomsteyer.com",
+      "berniesanders.com",
+      "elizabethwarren.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "amyklobuchar.com",
+      "betoorourke.com",
+      "kamalaharris.org",
+      "www.tulsi2020.com",
+      "www.yang2020.com",
+      "www.julianforthefuture.com",
+      "corybooker.com",
+      "elizabethwarren.com",
+      "peteforamerica.com",
+      "www.tomsteyer.com",
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.julianforthefuture.com": {
+    "hostname": "www.julianforthefuture.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "s.bsd.net",
+      "www.youtube.com",
+      "www.google.com",
+      "fonts.gstatic.com",
+      "static.doubleclick.net",
+      "yt3.ggpht.com",
+      "js-agent.newrelic.com",
+      "r4---sn-ab5szn7y.googlevideo.com",
+      "r4---sn-ab5l6ndr.googlevideo.com",
+      "bam.nr-data.net",
+      "googleads.g.doubleclick.net",
+      "fonts.typotheque.com",
+      "i.ytimg.com"
+    ]
+  },
+  "www.redditstatic.com": {
+    "hostname": "www.redditstatic.com",
+    "firstPartyHostnames": [
+      "kamalaharris.org",
+      "betoorourke.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.tomsteyer.com": {
+    "hostname": "www.tomsteyer.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "use.typekit.net",
+      "p.typekit.net",
+      "www.googletagmanager.com",
+      "www.youtube.com",
+      "www.google.com",
+      "res.cloudinary.com",
+      "static.doubleclick.net",
+      "googleads.g.doubleclick.net",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "www.googleadservices.com",
+      "static.ads-twitter.com",
+      "us-central1-tsdc-prod.cloudfunctions.net",
+      "cdn.ampproject.org",
+      "www.facebook.com",
+      "s.ytimg.com",
+      "js-agent.newrelic.com",
+      "bam.nr-data.net",
+      "analytics.twitter.com",
+      "t.co",
+      "platform.twitter.com",
+      "syndication.twitter.com",
+      "cdn.syndication.twimg.com",
+      "pbs.twimg.com"
+    ]
+  },
+  "www.tulsi2020.com": {
+    "hostname": "www.tulsi2020.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "d3rse9xjbp8270.cloudfront.net",
+      "use.fontawesome.com",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "www.youtube.com",
+      "static.ads-twitter.com",
+      "pd.trysera.com",
+      "secure.quantserve.com",
+      "tag.marinsm.com",
+      "d1aqhv4sn5kxtx.cloudfront.net",
+      "connect.facebook.net",
+      "www.googleadservices.com",
+      "www.google.com",
+      "static.hotjar.com",
+      "profile.ngpvan.com",
+      "actions.ngpvan.com",
+      "googleads.g.doubleclick.net",
+      "stats.g.doubleclick.net",
+      "js.verygoodvault.com",
+      "static.doubleclick.net",
+      "rules.quantcount.com",
+      "i.ytimg.com",
+      "pixel-geo.prfct.co",
+      "www.facebook.com",
+      "secure.adnxs.com",
+      "script.hotjar.com",
+      "yt3.ggpht.com",
+      "vars.hotjar.com",
+      "pixel.quantserve.com",
+      "tags.w55c.net",
+      "analytics.twitter.com",
+      "pixel.rubiconproject.com",
+      "pixel.prfct.co",
+      "us-u.openx.net",
+      "js-agent.newrelic.com",
+      "in.hotjar.com",
+      "bid.g.doubleclick.net",
+      "bam.nr-data.net",
+      "t.co"
+    ]
+  },
+  "www.yang2020.com": {
+    "hostname": "www.yang2020.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.googletagmanager.com",
+      "cdn.userway.org",
+      "fonts.googleapis.com",
+      "cdn.segment.com",
+      "static.landbot.io",
+      "connect.facebook.net",
+      "www.google-analytics.com",
+      "userway.org",
+      "static.ads-twitter.com",
+      "static.hotjar.com",
+      "fonts.gstatic.com",
+      "q.quora.com",
+      "api.segment.io",
+      "www.google.com",
+      "sjs.bizographics.com",
+      "www.facebook.com",
+      "script.hotjar.com",
+      "vars.hotjar.com",
+      "p.adsymptotic.com",
+      "js-agent.newrelic.com",
+      "bam.nr-data.net",
+      "analytics.twitter.com",
+      "t.co",
+      "live-development2.pantheonsite.io",
+      "vc.hotjar.io"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "firstPartyHostnames": [
+      "joebiden.com",
+      "www.tulsi2020.com",
+      "www.julianforthefuture.com",
+      "www.tomsteyer.com",
+      "betoorourke.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ycwht5le.micpn.com": {
+    "hostname": "ycwht5le.micpn.com",
+    "firstPartyHostnames": [
+      "berniesanders.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "yt3.ggpht.com": {
+    "hostname": "yt3.ggpht.com",
+    "firstPartyHostnames": [
+      "www.julianforthefuture.com",
+      "joebiden.com",
+      "www.tulsi2020.com",
+      "betoorourke.com",
+      "peteforamerica.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}
